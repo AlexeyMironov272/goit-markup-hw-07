@@ -789,7 +789,7 @@ body {
 }
 
 .modal__heading {
-  margin-bottom: 12px;
+  margin:0 0 12px;
   font-weight: 700;
   font-size: 20px;
   line-height: 1.15;
